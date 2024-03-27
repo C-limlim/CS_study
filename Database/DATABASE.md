@@ -1,27 +1,6 @@
 ## 데이터베이스
 
 <details>
-  <summary><h3>1. Key (기본키, 후보키, 슈퍼키 등등...) 에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 기본키는 수정이 가능한가요?</li>
-<li> 사실 MySQL의 경우, 기본키를 설정하지 않아도 테이블이 만들어집니다. 어떻게 이게 가능한 걸까요?</li>
-<li> 외래키 값은 NULL이 들어올 수 있나요?</li>
-<li> 어떤 칼럼의 정의에 UNIQUE 키워드가 붙는다고 가정해 봅시다. 이 칼럼을 활용한 쿼리의 성능은 그렇지 않은 것과 비교해서 어떻게 다를까요?</li>
-</ul>
-</details>
-
-
-<details>
-  <summary><h3>2. RDB와 NoSQL의 차이에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> NoSQL의 강점과, 약점이 무엇인가요?</li>
-<li> RDB의 어떠한 특징 때문에 NoSQL에 비해 부하가 많이 걸릴 "수" 있을까요? (주의: 무조건 NoSQL이 RDB 보다 빠르다라고 생각하면 큰일 납니다!)</li>
-<li> NoSQL을 활용한 경험이 있나요? 있다면, 왜 RDB를 선택하지 않고 해당 DB를 선택했는지 설명해 주세요.</li>
-</ul>
-</details>
-
-
-<details>
   <summary><h3>3. 트랜잭션이 무엇이고, ACID 원칙에 대해 설명해 주세요.</h3></summary>
 <ul>
 <li> ACID 원칙 중, Durability를 DBMS는 어떻게 보장하나요?</li>
